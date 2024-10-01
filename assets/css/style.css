@@ -1,0 +1,27 @@
+#hero-img {
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    /* no-repeat para que no repita la imagen */
+    /* cover para que cubra todo */
+    background-size: cover;
+    background-position: left;
+}
+
+/* Exportando fuentes al sitio como una ETIQUETA directo*/
+body {
+    font-family: "Raleway";
+}
+
+.comidas-size {
+    font-size: 4em;
+}
+.color-jobs {
+    background-color: #17A2B8;
+}
+
+/* Estilo de 'row cards' para que se centre */
+.estilocards {
+    width: auto;
+    margin: auto auto;
+}
+
